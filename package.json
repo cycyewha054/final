@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "better-sqlite3": "^7.5.3"
+    "axios": "^0.27.2",
+    "better-sqlite3": "^7.5.3",
+    "bower": "^1.8.14",
+    "react-icons": "^4.4.0"
   }
 }
